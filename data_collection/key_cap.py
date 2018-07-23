@@ -116,7 +116,7 @@ while(True):
 	file = grab_screen()
 		
 # import sys
-# import time
+# 
 # import win32api
 
 # if (len(sys.argv) < 4):
