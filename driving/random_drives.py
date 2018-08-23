@@ -42,6 +42,7 @@ def drive():
 		print(str(drive_angle) + " " + str(throttle))
 		time.sleep(1)
 		set_gamepad([[0, 0]])
+		time.sleep(50)
 		
 		#pause = True
 		# release gamepad keys
